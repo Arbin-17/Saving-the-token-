@@ -4,5 +4,12 @@
   },
   "dependencies": {
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving-the-token-",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
